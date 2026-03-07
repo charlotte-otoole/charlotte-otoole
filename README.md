@@ -2,6 +2,8 @@
 
 Software & Solutions Developer, Concepts & Innovation
 
+0xE2 : encrypt-free.74.mq2fl@aleeeas.com
+
 ##
 
 Software Architect (Node.js/Cloud) | Master's Degree in Cloud Architecture
