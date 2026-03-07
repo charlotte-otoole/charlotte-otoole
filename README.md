@@ -2,7 +2,7 @@
 
 Software & Solutions Developer, Concepts & Innovation
 
-✉ : encrypt-free.74.mq2fl@aleeeas.com
+✉ encrypt-free.74.mq2fl@aleeeas.com
 
 ##
 
