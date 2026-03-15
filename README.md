@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/madjeek-web/madjeek-web/raw/main/fabien-conejero-131313.jpg" alt="Fabien Conéjéro" width="100%" height="100%">
+</p>
+
 ## Charlotte O' Toole
 
 Software & Solutions Developer, Concepts & Innovation
