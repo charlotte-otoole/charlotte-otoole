@@ -6,7 +6,7 @@
 
 Software & Solutions Developer, Concepts & Innovation 
 
-. Organization : <a href="https://www.linkedin.com/company/convergence-organization" target="_blank" rel="noopener noreferrer">Convergence Human And Technology</a> |
+. Organization : <a href="https://www.linkedin.com/company/convergence-organization" target="_blank" rel="noopener noreferrer">Convergence Human And Technology</a>
 
 ##
 
