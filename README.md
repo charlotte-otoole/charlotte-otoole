@@ -6,10 +6,6 @@
 
 Software & Solutions Developer, Concepts & Innovation 
 
-<p align="center">
-  <img src="https://github.com/charlotte-otoole/charlotte-otoole/raw/main/convergence-cover-bando.png" alt="Convergence Human And Technology banner" width="100%" height="100%">
-</p>
-
 . Organization : <a href="https://www.linkedin.com/company/convergence-organization" target="_blank" rel="noopener noreferrer">Convergence Human And Technology</a>
 
 ##
