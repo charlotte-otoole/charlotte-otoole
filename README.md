@@ -17,3 +17,15 @@ My approach consists of building robust software systems capable of adapting to 
 Expertise: Design of scalable architectures (microservices, event-driven), design patterns, API management, cloud migrations and performance optimization. Technologies: Node.js (ES6+), SQL, Docker, AWS.
 
 Furthermore, I train and advise teams on architectural best practices, technical governance and infrastructure choices, to guarantee solutions that are both resilient, sustainable and economically viable.
+
+#
+
+✉ Email : convergence-tech@proton.me
+
+. Github Company : https://github.com/Convergence-Human-And-Technology
+
+. LinkedIn Showcase Page : https://www.linkedin.com/showcase/convergence-human-and-technology
+
+. Facebook : https://www.facebook.com/people/Convergence-Human-And-Technology/61578483081894
+
+. Medium : https://medium.com/@fabien-conejero/convergence-quand-le-g%C3%A9nie-invente-les-%C3%A9vidences-de-demain-eee167379f22
